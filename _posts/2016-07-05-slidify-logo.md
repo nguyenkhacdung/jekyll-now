@@ -1,7 +1,7 @@
 ---
-title: How to add a logo to a slidify presentation
+title: "How to add a logo to a slidify presentation"
+output: pdf_document
 layout: post
-# tags: [markdown]
 ---
 
 *reading time: 15-20 min.*

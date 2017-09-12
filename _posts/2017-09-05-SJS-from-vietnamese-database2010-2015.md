@@ -1,7 +1,7 @@
 ---
-layout: post
 title: "SJSTEN 2010-2015!"
-# tags: [SCAR]
+output: pdf_document
+layout: post
 ---
 
 This is an R Markdown document. Markdown is a simple formatting syntax
